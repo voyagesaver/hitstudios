@@ -1359,6 +1359,18 @@ a {
 .cid-sLyv6vpg6L .mbr-section-title {
   color: #ffffff;
 }
+#custom-html-2j {
+  /* Type valid CSS here */
+}
+#custom-html-2j div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-2j p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-sLummulEMw {
   padding-top: 6rem;
   padding-bottom: 6rem;
