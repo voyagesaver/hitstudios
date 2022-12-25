@@ -107,7 +107,7 @@
         "main": true,
         "title": "The Hit Studios Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<script src=\"https://scripts.sirv.com/sirv.js\"></script>",
         "footer_custom": "",
         "html_before": ""
       },
