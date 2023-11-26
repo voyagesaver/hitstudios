@@ -1376,76 +1376,17 @@ a {
   max-width: 70%;
   max-height: 70%;
 }
-.cid-ssGlcxMZeN {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #000000;
+#custom-html-2k {
+  /* Type valid CSS here */
 }
-.cid-ssGlcxMZeN .contacts-name {
-  padding-bottom: 5px;
-  margin: 0;
-  color: #a3a6b2;
+#custom-html-2k div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
 }
-.cid-ssGlcxMZeN .contacts-info {
-  padding-bottom: 30px;
-  color: #ffffff;
-  margin: 0;
-}
-.cid-ssGlcxMZeN .margin {
-  margin-bottom: 10px;
-}
-.cid-ssGlcxMZeN .mbr-section-title {
-  color: white;
-  margin-bottom: 20px;
-  padding: 0;
-}
-.cid-ssGlcxMZeN .description {
-  color: #a3a6b2;
-  margin-bottom: 50px;
-  padding: 0;
-}
-.cid-ssGlcxMZeN .title {
-  font-size: 24px;
-}
-.cid-ssGlcxMZeN .form-heading {
-  margin-bottom: 40px;
-}
-.cid-ssGlcxMZeN label {
-  color: #ffffff;
-  margin-bottom: 5px;
-}
-.cid-ssGlcxMZeN input,
-.cid-ssGlcxMZeN textarea {
-  background-color: #3F424E;
-  margin-bottom: 30px;
-}
-.cid-ssGlcxMZeN .gray-button {
-  margin: 0;
-  background-color: #3F424E;
-  color: #ffffff;
-}
-.cid-ssGlcxMZeN .mbr-section-btn {
-  margin: 0;
-  padding: 0;
-}
-.cid-ssGlcxMZeN .form-group {
-  padding: 0 5px;
-  margin: 0;
-}
-.cid-ssGlcxMZeN .left-side {
-  padding: 0;
-}
-@media (max-width: 1000px) {
-  .cid-ssGlcxMZeN .gray-button {
-    margin-bottom: 50px;
-    margin-top: 0px;
-  }
-}
-.cid-ssGlcxMZeN .gray-button:hover {
-  background-color: #5e6068;
-}
-.cid-ssGlcxMZeN ::placeholder {
-  color: #a3a6b2;
+#custom-html-2k p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-sLuKEisDim {
   padding-top: 30px;
