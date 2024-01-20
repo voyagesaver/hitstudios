@@ -98,7 +98,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 196,
+    "uniqCompNum": 197,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "chatbutton": {},
@@ -269,6 +269,19 @@
             "gallery__filtersBtnStyle": "btn-white-outline",
             "gallery": [
               {
+                "tags": "Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024018-1333442024-0-4-14-55-29.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/592885295?loop=0&autoplay=0",
+                "image": "@PROJECT_PATH@/assets/images/124-533x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/124-533x800-533x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "Photos",
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -286,8 +299,8 @@
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fr-934x1401.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fr-934x1401-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pp22-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pp22-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -299,8 +312,8 @@
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/pp20-2000x2920.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pp20-2000x2920-800x1168.jpg",
+                "image": "@PROJECT_PATH@/assets/images/108-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/108-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -312,8 +325,8 @@
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/12-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/12-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/121-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/121-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -325,8 +338,8 @@
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/pp13-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pp13-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1487-2000x2975.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1487-2000x2975-800x1190.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -338,8 +351,8 @@
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/moi-pp-2000x2588-800x1035.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/moi-pp-2000x2588-800x1035-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-2000x2920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-2000x2920-800x1168.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -351,8 +364,8 @@
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/p1120809-2000x2367-800x947-800x947.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1120809-2000x2367-800x947-800x947-800x947.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -360,25 +373,12 @@
                 "active": false
               },
               {
-                "tags": "Videos",
+                "tags": "Photos",
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/q-2000x3000-800x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/q-2000x3000-800x1200-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Videos",
-                "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/nh-copy-2000x2663-800x1065.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/nh-copy-2000x2663-800x1065-800x1065.jpg",
+                "image": "@PROJECT_PATH@/assets/images/102-718x1005.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/102-718x1005-718x1005.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -386,12 +386,12 @@
                 "active": false
               },
               {
-                "tags": "Videos",
+                "tags": "Photos",
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/57-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/57-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/119-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/119-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -399,12 +399,12 @@
                 "active": false
               },
               {
-                "tags": "Videos",
+                "tags": "Photos",
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-459-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-459-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/123-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -412,12 +412,12 @@
                 "active": false
               },
               {
-                "tags": "Videos",
+                "tags": "Photos",
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc00477-2000x3000.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc00477-2000x3000-800x1200.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/103-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/103-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -425,12 +425,64 @@
                 "active": false
               },
               {
-                "tags": "Videos",
+                "tags": "Photos",
                 "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc09864-2000x2667-copy-2000x3000.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc09864-2000x2667-copy-2000x3000-800x957.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/106-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/106-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photos",
+                "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/12-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-1-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photos",
+                "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photos",
+                "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/111-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/111-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photos",
+                "videoPreview": "@ADDONS_PATH@/restaurantm4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/120-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/120-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -439,6 +491,34 @@
               }
             ]
           }
+        },
+        {
+          "_name": "video3",
+          "_sourceTheme": "mobirise5",
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".video-wrapper iframe": {
+              "width": "100%"
+            },
+            ".mbr-section-title, .mbr-section-subtitle, .mbr-text": {
+              "text-align": "center"
+            }
+          },
+          "_customHTML": "<section class=\"video3\" group=\"Images &amp; Videos\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Description\" name=\"showDescription\" checked=\"\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" value=\"\" title=\"Image\">\n            <input type=\"color\" value=\"#ffffff\" title=\"Color\" selected=\"\">\n            <input type=\"video\" value=\"https://vimeo.com/428046504\" title=\"Video\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"mbr-section-head\" mbr-if=\"showTitle || showSubtitle\">\n            <h4 class=\"mbr-section-title mbr-fonts-style mb-0\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><b>Featured Videos</b></h4>\n            <h5 class=\"mbr-section-subtitle mbr-fonts-style mb-0 mt-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\">Here are a few video projects I shot and Edited.</h5>\n        </div>\n        <div class=\"row mt-4\">\n            <div class=\"col-12 col-md-6 video-block\">\n                <div mbr-video=\"\" class=\"video-wrapper\">\n                    <iframe src=\"https://vimeo.com/592885295?loop=0&amp;autoplay=0\"></iframe>\n                </div>\n                <p class=\"mbr-text pt-2 mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showDescription\" data-app-selector=\".mbr-text\">Ellements Magazine Cover Shoot with celebrity <b>Zuleyka Riviera ( <a href=\"https://www.instagram.com/zuleykarivera/\" class=\"text-primary\" target=\"_blank\">See profile here</a>)</b></p>\n            </div>\n            <div class=\"col-12 col-md-6 video-block\">\n                <div mbr-video=\"\" class=\"video-wrapper\">\n                    <iframe src=\"https://vimeo.com/650917686?loop=0&amp;autoplay=0\"></iframe>\n                </div>\n                <p class=\"mbr-text pt-2 mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showDescription\" data-app-selector=\".mbr-text\">Vous Magazine Cover Shoot with celebrity <b>Marjorie De Sousa (<a href=\"https://www.instagram.com/marjodsousa/\" class=\"text-primary\" target=\"_blank\">See profile here</a>)</b><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "video3-5g",
+          "_isUserblock": true,
+          "_cid": "u1Q6GPGX2g",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         },
         {
           "alias": false,
