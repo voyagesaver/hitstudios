@@ -37,7 +37,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "The Hit Studios website",
+    "name": "Landry Amos",
     "versionFirst": "5.4.1",
     "siteFonts": [
       {
@@ -101,28 +101,44 @@
     "uniqCompNum": 197,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
-    "chatbutton": {},
+    "chatbutton": {
+      "phone": "+12345678901",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nMobirise Team",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": 5,
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Chat with us on WhatsApp!",
+      "placeholder": "Type here",
+      "zIndex": 10,
+      "enabled": true
+    },
     "favicon": "@PROJECT_PATH@/assets/images/ig-black-128x128.png",
-    "mbrsiteDomain": "evuhfwqynl",
+    "mbrsiteDomain": "5hpklgie5r",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://thehitfilms.com/",
+    "siteUrl": "https://landryamos.com/",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
     "global_header_custom": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '440185523638708');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=440185523638708&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "The Hit Studios",
+        "title": "Landry Amos",
         "meta_descr": "",
         "header_custom": "<script src=\"https://scripts.sirv.com/sirv.js\"></script>",
         "footer_custom": "",
