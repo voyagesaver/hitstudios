@@ -101,24 +101,8 @@
     "uniqCompNum": 197,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
-    "chatbutton": {
-      "phone": "+12345678901",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#e5ddd5",
-      "position": "left",
-      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nMobirise Team",
-      "showPopup": true,
-      "showOnIE": true,
-      "autoOpenTimeout": 5,
-      "headerColor": "#39847a",
-      "headerTitle": "👋 Chat with us on WhatsApp!",
-      "placeholder": "Type here",
-      "zIndex": 10,
-      "enabled": true
-    },
     "favicon": "@PROJECT_PATH@/assets/images/ig-black-128x128.png",
-    "mbrsiteDomain": "5hpklgie5r",
+    "mbrsiteDomain": "02rvjz7n2h",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
@@ -132,7 +116,8 @@
     "mcSmartCart": {
       "currency": "USD"
     },
-    "usedWebp": false
+    "usedWebp": false,
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
